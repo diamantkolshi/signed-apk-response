@@ -18,18 +18,11 @@ This open source code halp all programers to check responses and easey cetch fai
 ```
 result 
 
--------------------------------------------------
--------------------------------------------------
-Result response
--------------------------------------------------
--------------------------------------------------
+#### Result response
+
 ```
 app name: busullaApp
 method name: logInWithGoogle
 object: ya29.GltZBQv7Y1ZRrP7UaZdXDdjPF-fIuSQHC7sjOqWbjT-ToJoncV4fJkKhoinnECI3HwhfFAX1ZF50RTT0Q3Ce-kVtOigOs0Ezr_pwtx5xYq2shKmcZ_karWbkXCuD,
 status: success
 ```
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
