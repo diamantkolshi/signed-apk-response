@@ -1,6 +1,6 @@
 # README
 
-This open source help to check responses and easey cetch failer on production (like react native app when execute to apk).
+This open source help to check responses and easey easily catch failures on production (like react native app when execute to apk).
 
 ## USE
 
