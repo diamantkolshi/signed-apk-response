@@ -1,6 +1,6 @@
 # README
 
-This open source code halp all programers to check responses and easey cetch failer on production text code (like react native app).
+This open source help to check responses and easey cetch failer on production (like react native app when execute to apk).
 
 ## USE
 
