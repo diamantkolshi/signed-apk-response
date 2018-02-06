@@ -1,24 +1,35 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This open source code halp all programers to check responses and easey cetch failer on production text code (like react native app).
 
-Things you may want to cover:
+## USE
 
-* Ruby version
+### Example
 
-* System dependencies
+```
+  axios.get("http://signed-apk-response.herokuapp.com/results", {
+    params: {
+      app_name: "busullaApp",
+      method_name: "logInWithGoogle",
+      object: accessToken,
+      status: type
+    }
+  })
+```
+result 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-------------------------------------------------
+-------------------------------------------------
+Result response
+-------------------------------------------------
+-------------------------------------------------
+```
+app name: busullaApp
+method name: logInWithGoogle
+object: ya29.GltZBQv7Y1ZRrP7UaZdXDdjPF-fIuSQHC7sjOqWbjT-ToJoncV4fJkKhoinnECI3HwhfFAX1ZF50RTT0Q3Ce-kVtOigOs0Ezr_pwtx5xYq2shKmcZ_karWbkXCuD,
+status: success
+```
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
